@@ -22,7 +22,7 @@ const projects = [
     tags: ["PHP", "MySQL", "JavaScript", "Bootstrap"],
     icon: <Hospital className="w-8 h-8 text-sky-600 dark:text-sky-400" />,
     image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=800&h=450",
-    liveLink: "#",
+    liveLink: "https://hospitalmanagement.fwh.is/",
     githubLink: "https://github.com/kunjrakholiya18"
   },
   {
@@ -31,7 +31,7 @@ const projects = [
     tags: ["PHP", "MySQL", "JavaScript", "HTML/CSS"],
     icon: <ShoppingCart className="w-8 h-8 text-indigo-600 dark:text-indigo-400" />,
     image: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80&w=800&h=450",
-    liveLink: "#",
+    liveLink: "https://onlineshoping.fwh.is/",
     githubLink: "https://github.com/kunjrakholiya18"
   }
 ];
