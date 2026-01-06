@@ -122,7 +122,7 @@ const Hero: React.FC = () => {
               </a>
 
               <a 
-                href="/Resume/kunj Rakholiya resume.pdf" 
+                href="https://drive.google.com/file/d/1UIpm8qFE2mrR3s3HpnbDRYsWDmgENFZv/view?usp=drivesdk" 
                 download=''
                 className="group flex items-center gap-4 p-4 pr-10 bg-white dark:bg-slate-900/50 border border-slate-200 dark:border-emerald-500/40 rounded-full transition-all duration-300 hover:border-emerald-500 hover:shadow-[0_0_20px_rgba(16,185,129,0.15)] theme-transition"
               >
