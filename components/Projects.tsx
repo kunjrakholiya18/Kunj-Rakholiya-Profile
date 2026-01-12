@@ -13,7 +13,7 @@ const projects = [
     tags: ["React", "Python", "OpenAI API", "Tailwind CSS"],
     icon: <Monitor className="w-8 h-8 text-blue-600 dark:text-blue-400" />,
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=450",
-    liveLink: "https://sahayak-ai-hu1y.vercel.app/",
+    liveLink: "https://voice-with-chat-shayak-ai.vercel.app/",
     githubLink: "https://github.com/kunjrakholiya18"
   },
   {
